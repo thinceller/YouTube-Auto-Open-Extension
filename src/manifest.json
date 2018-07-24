@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube Auto Open Extension",
+  "version": "versionString",
+  "default_locale": "ja",
+  "description": "登録したチャンネルのライブストリームページを監視して、配信が開始したら自動で開く拡張機能",
+  "permissions": [],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
